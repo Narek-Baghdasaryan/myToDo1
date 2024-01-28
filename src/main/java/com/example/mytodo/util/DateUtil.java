@@ -3,7 +3,7 @@ package com.example.mytodo.util;
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
 import java.util.Date;
-import java.util.SimpleTimeZone;
+
 
 public class DateUtil {
     private static final SimpleDateFormat SDF = new SimpleDateFormat("yyyy-MM-dd");
